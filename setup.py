@@ -10,7 +10,7 @@ setup(
                       "anndata",
                       "skranger",
                       "fisher==0.1.9",
-                      "numpy==1.21.3"
+                      "numpy==1.21.2"
                      ],
     classifiers=[
         "Programming Language :: Python :: 3",
