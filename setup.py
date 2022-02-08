@@ -4,11 +4,12 @@ setup(
     name="foo",
     version="0.0.1",
     packages=['foo'],
-    install_requires=["sklearn",
+    install_requires=["numba",
+                      "sklearn",
                       "tqdm",
                       "anndata",
                       "skranger",
-                      "fisher"
+                      "fisher==0.1.9"
                      ],
     classifiers=[
         "Programming Language :: Python :: 3",
