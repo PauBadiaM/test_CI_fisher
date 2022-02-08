@@ -9,7 +9,8 @@ setup(
                       "tqdm",
                       "anndata",
                       "skranger",
-                      "fisher==0.1.9"
+                      "fisher==0.1.9",
+                      "numpy==1.21.4"
                      ],
     classifiers=[
         "Programming Language :: Python :: 3",
